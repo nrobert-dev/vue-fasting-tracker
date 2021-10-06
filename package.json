@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "moment": "^2.29.1",
+    "vue-radial-progress": "^0.3.2"
+  }
+}
